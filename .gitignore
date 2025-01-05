@@ -1,6 +1,7 @@
 #.·:·.《GITIGNORE》.·:·..·:·..·:·..·:·.[05]-[01]-[025]
 #   DESCRIPTION:
 #   Ignoring files while commiting
+#   TAB before code hurts functionality
 #
 #
 #
@@ -8,33 +9,90 @@
 #   ╔════════════☽【❖】☾═════════════╗
 #   ║ IGNORING RULES
 #   ╚════════════☽【❖】☾═════════════╝
+#
+#   ignore all logs:
 *.log
+#
+#
+#
+#   ╔════════════☽【❖】☾═════════════╗
+#   ║ IGNORING FOLDERS
+#   ╚════════════☽【❖】☾═════════════╝
+#
+#   autostart:
 autostart/
+#
+#   ckb-next:
 ckb-next/
+#
+#   dconf:
 dconf/
+#
+#   falkTX:
 falkTX/
+#
+#   gimp:
 GIMP/
+#
+#   go:
 go/
+#
+#   gtk:
 gtk-2.0/
 gtk-3.0/
+#
+#   libreoffice:
 libreoffice/
+#
+#   obsidian:
 obsidian/
-pix/active_filter.xml
-pix/filters.xml
-pix/history.xbel
-pulse/cookie
-QtProject/Designer.conf
-Raspberry Pi/Imager.conf
-session/dolphin_dolphin_dolphin
-simple-update-notifier/electron-builder.json
+#
+#   pix:
+pix/
+#
+#   pulse:
+pulse/
+#
+#   qtproject:
+QtProject/
+#
+#   raspberry pi:
+Raspberry Pi/
+#
+#   session:
+session/
+#
+#   simple update notifier:
+simple-update-notifier/
+#
+#   spotify:
 spotify/
+#
+#   stardew valley:
 StardewValley/
+#
+#   unity 3d:
 unity3d/
+#
+#   vesktop:
+vesktop/
+#
+#   vlc:
 vlc/
+#
+#   vscodium:
+VSCodium/
+#
+#
+#
+#   ╔════════════☽【❖】☾═════════════╗
+#   ║ IGNORING FILES
+#   ╚════════════☽【❖】☾═════════════╝
+#
 .gsd-keyboard.settings-ported
 baloofileinformationrc
-baloofilerc
 dolphinrc
+baloofilerc
 kdeglobals
 kiorc
 konsolerc
@@ -43,8 +101,6 @@ kservicemenurc
 ktrashrc
 pavucontrol.ini
 QtProject.conf
-trashrc
 user-dirs.dirs
 user-dirs.locale
-vesktop/
-VSCodium/
+trashrc
