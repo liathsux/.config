@@ -1,0 +1,40 @@
+#.·:·.《GITIGNORE》.·:·..·:·..·:·..·:·.[05]-[01]-[025]
+#   DESCRIPTION:
+#   Ignoring files while commiting
+#
+#
+#
+#
+#   ╔════════════☽【❖】☾═════════════╗
+#   ║ IGNORING RULES
+#   ╚════════════☽【❖】☾═════════════╝
+#
+#   ignore .log files:
+    *.log
+#
+#   ignore any temp files:
+    temp/
+#
+#   ignore vesktop data cache:
+    vesktop/sessionData/Cache/Cache_Data/
+#
+#   ignore vscodium
+    VSCodium/Cache/Chache_Data/
+#
+#
+#
+#   ╔════════════☽【❖】☾═════════════╗
+#   ║ EXCLUDE FILES
+#   ╚════════════☽【❖】☾═════════════╝
+#
+#   kde:
+    kde.org/
+#
+#   spotify:
+    spotify/
+#
+#   autostart:
+    autostart/
+#
+#
+    obsidian/
