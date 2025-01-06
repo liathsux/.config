@@ -1,4 +1,4 @@
-#.·:·.《GITIGNORE》.·:·..·:·..·:·..·:·.[05]-[01]-[025]
+#.·:·.《GITIGNORE》.·:·..·:·..·:·..·:·.[06]-[01]-[025]
 #   DESCRIPTION:
 #   Ignoring files while commiting
 #   TAB before code hurts functionality
@@ -104,3 +104,4 @@ QtProject.conf
 user-dirs.dirs
 user-dirs.locale
 trashrc
+kde.org/
