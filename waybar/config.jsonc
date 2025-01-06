@@ -7,12 +7,11 @@
 
     /*MODULE ORDER IN WAYBAR*/
 
-    "modules-left": ["tray", "battery"],
-    "modules-center": ["battery", "clock"],
-    "modules-right": ["idle_inhibitor", "network", "pulseaudio", "cpu", "memory", "temperature"],
+    "modules-left": ["tray"],
+    "modules-center": ["clock"],
+    "modules-right": ["battery", "idle_inhibitor", "network", "pulseaudio", "cpu", "memory", "temperature"],
 
     /*MODULES SORTED ALPHABETICALLY*/
-    
     "battery": {
         "states": {
             "good": 95,
@@ -62,7 +61,7 @@
 
     "network": {
         "format-wifi": " {icon}",
-        "format-ethernet": "", 
+        "format-ethernet": "",
         "format-disconnected": "",
         "format-icons": [
             " ",
@@ -99,7 +98,7 @@
         "format": "{temperatureC}°C {icon}",
         "format-icons": ["", "", ""]
     },
-    
+
     "tray": {
         "spacing":10
     }
