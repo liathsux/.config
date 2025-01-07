@@ -1,4 +1,4 @@
-#.·:·.《GITIGNORE》.·:·..·:·..·:·..·:·.[06]-[01]-[025]
+#.·:·.《GITIGNORE》.·:·..·:·..·:·..·:·.[07]-[01]-[025]
 #   DESCRIPTION:
 #   Ignoring files while commiting
 #   TAB before code hurts functionality
@@ -74,8 +74,8 @@ StardewValley/
 #   unity 3d:
 unity3d/
 #
-#   vesktop:
-vesktop/
+#####   vesktop:
+####vesktop/
 #
 #   vlc:
 vlc/
@@ -89,6 +89,7 @@ VSCodium/
 #   ║ IGNORING FILES
 #   ╚════════════☽【❖】☾═════════════╝
 #
+#   files:
 .gsd-keyboard.settings-ported
 baloofileinformationrc
 dolphinrc
@@ -105,3 +106,20 @@ user-dirs.dirs
 user-dirs.locale
 trashrc
 kde.org/
+#
+#
+#
+#   ╔════════════☽【❖】☾═════════════╗
+#   ║ INCLUDING FILES
+#   ╚════════════☽【❖】☾═════════════╝
+#
+#   include vesktop theme:
+vesktop/*
+!vesktop/themes/
+#
+#
+#
+#   AUTHOR:
+#   Liath
+#
+#.·:·.《✧》.·:·..·:·..·:·..·:·..·:·..·:·.《✧》.·:·.
