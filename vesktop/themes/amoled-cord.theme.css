@@ -13,11 +13,17 @@
 
 /*Custom mention color:*/
 .mentioned_d5deea{
-  background-color: rgba(255, 88, 172, 0.5);
+  background-color: rgba(255, 88, 172, 0.2);
   border:rgba(255, 88, 172, 0.5)
 }
 .mentioned_d5deea:before{
   background-color: rgba(255, 0, 200,1);
+}
+
+/*Name color:*/
+.username_f9f2ca{
+  color:#b0b0b0;
+  font-size: 120%
 }
 /*CUSTOM CHANGES END*/
 
