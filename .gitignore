@@ -28,11 +28,20 @@ ckb-next/
 #   dconf:
 dconf/
 #
+#   electron:
+Electron/
+#
+#   eog:
+eog/
+#
 #   falkTX:
 falkTX/
 #
 #   gimp:
 GIMP/
+#
+#   gnome-session:
+gnome-session/
 #
 #   go:
 go/
@@ -44,11 +53,17 @@ gtk-3.0/
 #   libreoffice:
 libreoffice/
 #
+#   menus:
+menus/
+#
 #   obsidian:
 obsidian/
 #
 #   pix:
 pix/
+#
+#   pnpm:
+pnpm/
 #
 #   pulse:
 pulse/
@@ -74,14 +89,14 @@ StardewValley/
 #   unity 3d:
 unity3d/
 #
-#####   vesktop:
-####vesktop/
-#
 #   vlc:
 vlc/
 #
 #   vscodium:
 VSCodium/
+#
+#   xfce4:
+xfce4/
 #
 #
 #
