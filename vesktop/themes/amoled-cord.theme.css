@@ -12,12 +12,27 @@
 /*CUSTOM CHANGES*/
 
 /*Custom mention color:*/
+.mentionsBar_eba0ba{
+  background-color: rgba(255, 88, 172, 0.4);
+}
+.bar_eba0ba{
+  outline:solid rgba(255,88,172,1);
+  opacity:1;
+}
+
+.channelAppLauncher_df39bd{
+  display:none;
+}
+
 .mentioned_d5deea{
   background-color: rgba(255, 88, 172, 0.2);
   border:rgba(255, 88, 172, 0.5)
 }
 .mentioned_d5deea:before{
   background-color: rgba(255, 0, 200,1);
+}
+.mentioned_d5deea:hover{
+  background-color: rgba(255, 88, 172, 0.2);
 }
 
 /*Name color:*/
