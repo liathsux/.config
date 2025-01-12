@@ -9,7 +9,7 @@
 
     "modules-left": ["tray"],
     "modules-center": ["clock"],
-    "modules-right": ["battery", "idle_inhibitor", "network", "pulseaudio", "cpu", "memory", "temperature"],
+    "modules-right": ["battery", "temperature", "network", "pulseaudio"],
 
     /*MODULES SORTED ALPHABETICALLY*/
     "battery": {
