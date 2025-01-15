@@ -10,34 +10,39 @@
 */
 
 /*CUSTOM CHANGES*/
+/*VARS:*/
+  :root{
+    --CUSTOM-mention-background: rgba(255,88,172,0.2);
+    --CUSTOM-mention-background-hover: rgba(255,88,172,0.3);
+    --CUSTOM-mention-left-border: rgba(255,0,200,1);
+    --CUSTOM-username-color: rgba(176,176,176,1);
+  }
 
-/*Custom mention color:*/
-.mentionsBar_eba0ba{
-  background-color: rgba(255, 88, 172, 0.4);
-}
-.bar_eba0ba{
-  outline:solid rgba(255,88,172,1);
-  opacity:1;
-}
-
+/*Hide Buttons in input field*/
 .channelAppLauncher_df39bd{
   display:none;
 }
 
+/*Mention Colors*/
 .mentioned_d5deea{
-  background-color: rgba(255, 88, 172, 0.2);
+  background-color: var(--CUSTOM-mention-background);
 }
 .mentioned_d5deea:before{
-  background-color: rgba(255, 0, 200,1);
+  background-color: var(--CUSTOM-mention-left-border);
 }
 .mentioned_d5deea:hover{
-  background-color: rgba(255, 88, 172, 0.2);
+  background-color: var(--CUSTOM-mention-background-hover) !important;
 }
 
 /*Name color:*/
 .username_f9f2ca{
-  color:#b0b0b0;
+  color: var(--CUSTOM-username-color);
   font-size: 120%
+}
+
+/*Ping Color:*/
+.numberBadge_df8943{
+  background-color: var(--CUSTOM-mention-left-border) !important;
 }
 /*CUSTOM CHANGES END*/
 
