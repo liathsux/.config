@@ -39,40 +39,11 @@ button:hover {
     margin: 6px 0;
     padding:3px;
 }
-  
-/*
-#clock{}
-*/
-
-#cpu {
-    background-color:#808080;
-    border-radius: 5px;
-    margin: 6px 0;
-    padding:3px;
-}
-
-#idle_inhibitor {
-    background-color:#808080;
-    border-radius: 5px;
-    margin: 6px 0;
-    padding:3px;
-}
-#idle_inhibitor.activated {
-    background-color: #ecf0f1;
-    color: #2d3436;
-}
-
-#memory{
-    background-color:#808080;
-    border-radius: 5px;
-    margin: 6px 0;
-    padding:3px;
-}
 
 #network{
     background-color:#808080;
     border-radius: 5px;
-    margin: 6px 2px;
+    margin: 6px 1px 6px 1px;
     padding:3px;
     box-shadow: 1px 1px #5BCEFA
 }
@@ -80,14 +51,14 @@ button:hover {
 #pulseaudio {
     background-color:#808080;
     border-radius: 5px;
-    margin: 6px 10px;
+    margin: 6px 10px 6px 0;
     padding:3px;
     box-shadow: 1px 1px #5BCEFA
 }
 #pulseaudio.muted {
     background-color:#ff0000;
     border-radius: 5px;
-    margin: 6px 10px;
+    margin: 6px 10px 6px 0;
     padding:3px;
     box-shadow: 1px 1px #310000;
 }
@@ -95,8 +66,7 @@ button:hover {
 #temperature{
     background-color:#808080;
     border-radius: 5px;
-    margin: 6px 0;
-    margin-right: 7px;
+    margin: 6px 0 6px 0;
     padding:3px;
 }
 #temperature.critical {
