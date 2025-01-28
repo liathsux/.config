@@ -50,11 +50,17 @@ go/
 gtk-2.0/
 gtk-3.0/
 #
+#   keepass:
+keepassxc/
+#
 #   libreoffice:
 libreoffice/
 #
 #   menus:
 menus/
+#
+#   mono:
+.mono/
 #
 #   obsidian:
 obsidian/
@@ -105,9 +111,32 @@ trizen/
 tuta_integration/
 tutanota-desktop/
 #
-#   evolution/
+#   evolution:
 evolution/
-#   
+#
+#   discord:
+discord/
+#
+#   signal:
+Signal/
+#
+#   nomic.ai:
+nomic.ai/
+#
+#   tor:
+torbrowser/
+#
+#   systemd:
+systemd/
+#
+#   spotifyd:
+spotifyd/
+#
+#   spotify-tui:
+spotify-tui/
+#
+#   xsettings:
+xsettingsd/
 #
 #
 #   ╔════════════☽【❖】☾═════════════╗
@@ -131,6 +160,9 @@ user-dirs.dirs
 user-dirs.locale
 trashrc
 kde.org/
+emaildefaults
+kleopatrarc
+mimeapps.list
 #
 #
 #
