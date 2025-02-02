@@ -19,29 +19,29 @@
   }
 
 /*Hide Buttons in input field*/
-.channelAppLauncher_df39bd{
+.channelAppLauncher_e6e74f{
   display:none;
 }
 
 /*Mention Colors*/
-.mentioned_d5deea{
+.mentioned__5126c{
   background-color: var(--CUSTOM-mention-background);
 }
-.mentioned_d5deea:before{
+.mentioned__5126c:before{
   background-color: var(--CUSTOM-mention-left-border);
 }
-.mentioned_d5deea:hover{
+.mentioned__5126c:hover{
   background-color: var(--CUSTOM-mention-background-hover) !important;
 }
 
 /*Name color:*/
-.username_f9f2ca{
+.username_c19a55{
   color: var(--CUSTOM-username-color);
   font-size: 120%
 }
 
 /*Ping Color:*/
-.numberBadge_df8943{
+.numberBadge__2b1f5{
   background-color: var(--CUSTOM-mention-left-border) !important;
 }
 /*CUSTOM CHANGES END*/
