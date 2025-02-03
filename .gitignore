@@ -28,11 +28,17 @@ ckb-next/
 #   dconf:
 dconf/
 #
+#   discord:
+discord/
+#
 #   electron:
 Electron/
 #
 #   eog:
 eog/
+#
+#   evolution:
+evolution/
 #
 #   falkTX:
 falkTX/
@@ -62,6 +68,9 @@ menus/
 #   mono:
 .mono/
 #
+#   nomic.ai:
+nomic.ai/
+#
 #   obsidian:
 obsidian/
 #
@@ -83,14 +92,39 @@ Raspberry Pi/
 #   session:
 session/
 #
+#   signal:
+Signal/
+#
 #   simple update notifier:
 simple-update-notifier/
+#
+#   spicetify:
+spicetify/
 #
 #   spotify:
 spotify/
 #
+#   spotifyd:
+spotifyd/
+#
+#   spotify-tui:
+spotify-tui/
+#
 #   stardew valley:
 StardewValley/
+#
+#   systemd:
+systemd/
+#
+#   trizen:
+trizen/
+#
+#   tor:
+torbrowser/
+#
+#   tuta:
+tuta_integration/
+tutanota-desktop/
 #
 #   unity 3d:
 unity3d/
@@ -103,37 +137,6 @@ VSCodium/
 #
 #   xfce4:
 xfce4/
-#
-#   trizen:
-trizen/
-#
-#   tuta:
-tuta_integration/
-tutanota-desktop/
-#
-#   evolution:
-evolution/
-#
-#   discord:
-discord/
-#
-#   signal:
-Signal/
-#
-#   nomic.ai:
-nomic.ai/
-#
-#   tor:
-torbrowser/
-#
-#   systemd:
-systemd/
-#
-#   spotifyd:
-spotifyd/
-#
-#   spotify-tui:
-spotify-tui/
 #
 #   xsettings:
 xsettingsd/
@@ -173,6 +176,10 @@ mimeapps.list
 #   include vesktop theme:
 vesktop/*
 !vesktop/themes/
+#
+#   include vencord theme:
+Vencord/*
+!Vencord/themes/
 #
 #
 #
