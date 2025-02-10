@@ -1,4 +1,4 @@
-#.·:·.《GITIGNORE》.·:·..·:·..·:·..·:·.[07]-[01]-[025]
+#.·:·.《GITIGNORE》.·:·..·:·..·:·..·:·.[10]-[02]-[025]
 #   DESCRIPTION:
 #   Ignoring files while commiting
 #   TAB before code hurts functionality
@@ -22,6 +22,9 @@
 #   autostart:
 autostart/
 #
+#   bottom:
+bottom/
+#
 #   ckb-next:
 ckb-next/
 #
@@ -30,6 +33,9 @@ dconf/
 #
 #   discord:
 discord/
+#
+#   discord key storage:
+Discord Key Storage/
 #
 #   electron:
 Electron/
