@@ -74,6 +74,9 @@ menus/
 #   mono:
 .mono/
 #
+#   monero:
+monero-project/
+#
 #   nomic.ai:
 nomic.ai/
 #
