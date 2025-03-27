@@ -2,29 +2,24 @@
 For easier management across devices
 
 ### What to install
-- discord
-- fastfetch
-- kitty
-- hyprland
+#### Yay:
+- visual-studio-code-bin
 - pacseek
-- waybar
 - wlogout
-- wofi
-- nemo
-- spotify-launcher
-- firefox
-- signal-launcher
-- gnome-calculator
-- vscodium
-- obsidian
 - waypaper
 - blueman-manager
-- tutanota-desktop
-- prismlauncher
+- ckb-next
+
+#### Pacman:
+- discord
+- fastfetch
+- waybar
+- spotify-launcher
+- gnome-calculator
+- obsidian
 - steam
 - resources
-- gnome-usage
-- ckb-next
+- gnome-system-monitor
 - hypridle
 - swaync
 - hyprpaper
