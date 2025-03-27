@@ -2,29 +2,32 @@
 For easier management across devices
 
 ### What to install
-- discord
-- fastfetch
-- kitty
-- hyprland
+
+#### Installing yay:
+1. ``sudo pacman -S --needed base-devel git``
+2. ``git clone https://aur.archlinux.org/yay.git``
+3. ``cd yay``
+4. ``makepkg -si``
+
+
+#### Install the following packages using yay:
+- visual-studio-code-bin
 - pacseek
-- waybar
 - wlogout
-- wofi
-- nemo
-- spotify-launcher
-- firefox
-- signal-launcher
-- gnome-calculator
-- vscodium
-- obsidian
 - waypaper
 - blueman-manager
-- tutanota-desktop
-- prismlauncher
+- ckb-next
+
+#### Install the following packages using pacman:
+- discord
+- fastfetch
+- waybar
+- spotify-launcher
+- gnome-calculator
+- obsidian
 - steam
 - resources
-- gnome-usage
-- ckb-next
+- gnome-system-monitor
 - hypridle
 - swaync
 - hyprpaper
