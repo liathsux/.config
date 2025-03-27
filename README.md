@@ -2,7 +2,15 @@
 For easier management across devices
 
 ### What to install
-#### Yay:
+
+#### Installing yay:
+1. ``sudo pacman -S --needed base-devel git``
+2. ``git clone https://aur.archlinux.org/yay.git``
+3. ``cd yay``
+4. ``makepkg -si``
+
+
+#### Install the following packages using yay:
 - visual-studio-code-bin
 - pacseek
 - wlogout
@@ -10,7 +18,7 @@ For easier management across devices
 - blueman-manager
 - ckb-next
 
-#### Pacman:
+#### Install the following packages using pacman:
 - discord
 - fastfetch
 - waybar
