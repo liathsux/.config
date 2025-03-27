@@ -1,0 +1,76 @@
+/**
+ * @name Liaths Changes
+ * @author Liath
+ * @description A theme for Vencord
+ * @version 1.0.0
+ * @authorId 745349553770987540
+*/
+
+/*VARS:*/
+:root {
+    --CUSTOM-mention-background: rgba(255, 88, 172, 0.2);
+    --CUSTOM-mention-background-hover: rgba(255, 88, 172, 0.3);
+    --CUSTOM-mention-left-border: rgba(255, 0, 200, 1);
+    --CUSTOM-username-color: rgba(176, 176, 176, 1);
+}
+
+
+
+/*Align Text field with user info*/
+.channelTextArea_f75fb0 {
+    margin-bottom: 6px;
+}
+
+
+
+/*Hide Buttons in input field*/
+.button__201d5[aria-label="Send a gift"],
+[aria-label="Open sticker picker"],
+[aria-label="Apps"] {
+    display: none;
+}
+
+.contents__201d5 {
+    margin: 10px;
+}
+
+
+
+/*Mention Colors*/
+.mentioned__5126c {
+    background-color: var(--CUSTOM-mention-background);
+}
+
+.mentioned__5126c:before {
+    background-color: var(--CUSTOM-mention-left-border);
+}
+
+.mentioned__5126c:hover {
+    background-color: var(--CUSTOM-mention-background-hover) !important;
+}
+
+
+
+/*Ping Color:*/
+.numberBadge__2b1f5 {
+    background-color: var(--CUSTOM-mention-left-border) !important;
+}
+
+
+
+/*Scrollbar width*/
+.managedReactiveScroller_d125d2::-webkit-scrollbar {
+    width: 15px;
+}
+
+
+/*Scrollbar Color*/
+.managedReactiveScroller_d125d2::-webkit-scrollbar-thumb {
+    background-color: var(--CUSTOM-mention-background);
+    border-radius: 15px;
+    border: 3px solid rgba(0, 0, 0, 0.0);
+}
+
+.managedReactiveScroller_d125d2::-webkit-scrollbar-thumb:hover {
+    background-color: var(--CUSTOM-mention-background-hover);
+}
