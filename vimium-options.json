@@ -1,17 +1,8 @@
 {
-  "keyMappings": "map r scrollDown\nmap w scrollUp",
-  "linkHintCharacters": "wpdvcx-aneiouym.",
-  "searchEngines": "",
-  "settingsVersion": "2.1.2",
-  "userDefinedLinkHintCss": "div > .vimiumHintMarker {\n/* linkhint boxes */\nbackground: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#808080),\n  color-stop(100%,#808080));\nborder: 1px solid #000000;\n}\n\ndiv > .vimiumHintMarker span {\n/* linkhint text */\ncolor: black;\nfont-weight: bold;\nfont-size: 12px;\n}\n\ndiv > .vimiumHintMarker > .matchingCharacter {\n}",
-  "exclusionRules": [
-    {
-      "passKeys": "",
-      "pattern": "https?://mail.google.com/*"
-    },
-    {
-      "passKeys": "",
-      "pattern": "https?://tetris.com/*"
-    }
-  ]
+    "keyMappings": "unmapAll\nmap r scrollDown\nmap w scrollUp\nmap c copyCurrentUrl\nmap v openCopiedUrlInNewTab\nmap d duplicateTab\nmap - LinkHints.activateMode\nmap h goToRoot\nmap t createTab",
+    "linkHintCharacters": "arstdhneio",
+    "searchEngines": "",
+    "settingsVersion": "2.1.2",
+    "userDefinedLinkHintCss": "div > .vimiumHintMarker {\n/* linkhint boxes */\nbackground: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#808080),\n  color-stop(100%,#808080));\nborder: 1px solid #000000;\n}\n\ndiv > .vimiumHintMarker span {\n/* linkhint text */\ncolor: black;\nfont-weight: bold;\nfont-size: 12px;\n}\n\ndiv > .vimiumHintMarker > .matchingCharacter {\n}",
+    "exclusionRules": []
 }

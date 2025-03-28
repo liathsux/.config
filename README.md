@@ -17,6 +17,7 @@ For easier management across devices
 - waypaper
 - blueman-manager
 - ckb-next
+- spotify-tui
 
 #### Install the following packages using pacman:
 - discord
@@ -32,3 +33,4 @@ For easier management across devices
 - swaync
 - hyprpaper
 - hyprsunset
+- spotifyd
