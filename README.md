@@ -1,7 +1,9 @@
 # Liath's .config files
 For easier management across devices
 
-### What to install
+## INSTALLATION
+
+### Additional packages
 
 #### Installing yay:
 1. ``sudo pacman -S --needed base-devel git``
@@ -22,7 +24,8 @@ For easier management across devices
 - discord
 - fastfetch
 - waybar
-- spotify-launcher
+- spotifyd
+- spotify-players
 - gnome-calculator
 - obsidian
 - steam
