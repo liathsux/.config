@@ -19,6 +19,7 @@ For easier management across devices
 - waypaper
 - blueman-manager
 - ckb-next
+- hyprshot
 
 #### Install the following packages using pacman:
 - discord
