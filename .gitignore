@@ -1,0 +1,100 @@
+*
+#.·:·.《EXAMPLE.conf》.·:·..·:·..·:·..·:·.[08]-[01]-[025]
+#   DESCRIPTION:
+#   Example config
+#
+#
+#
+#
+#   ╔════════════☽【❖】☾═════════════╗
+#   ║ EXCLUDE EVERYTHING
+#   ╚════════════☽【❖】☾═════════════╝
+#
+*
+#
+#
+#
+#   ╔════════════☽【❖】☾═════════════╗
+#   ║ INCLUDING SPECIFIC FOLDERS
+#   ╚════════════☽【❖】☾═════════════╝
+#
+#   hypr-related:
+!hypr/
+!hypr/**/*
+!wallpapers/
+!wallpapers/**/*
+!waybar/
+!waybar/**/*
+!waypaper/
+!waypaper/**/*
+!wlogout/
+!wlogout/**/*
+#
+#   Code:
+!Code/
+!Code/**/
+!Code/User/settings.json
+#
+#   fastfetch:
+!fastfetch/
+!fastfetch/**/*
+#
+#   kitty:
+!kitty/
+!kitty/**/*
+#
+#   nemo:
+!nemo/
+!nemo/**/*
+#
+#   neofetch:
+!neofetch/
+!neofetch/**/*
+#
+#   spotifyd:
+!spotifyd/
+!spotifyd/**/*
+#
+#   spt:
+!spotify-tui/
+!spotify-tui/config.yml
+#
+#   Vencord:
+!Vencord/
+!Vencord/**/
+!Vencord/themes/*
+#
+#   wofi:
+!wofi/
+!wofi/**/*
+#
+#
+#
+#   ╔════════════☽【❖】☾═════════════╗
+#   ║ INCLUDING SPECIFIC FILES
+#   ╚════════════☽【❖】☾═════════════╝
+#
+#   hyfetch:
+!hyfetch.json
+#
+#   README:
+!README.md
+#
+#   Vimium:
+!vimium-options.json
+#
+#   bookmarks:
+!bookmarks.html
+#
+#   stylus:
+!stylus-2025-03-31.json
+#
+#   .gitignore:
+!.gitignore
+#
+#
+#
+#   AUTHOR:
+#   Liath
+#
+#.·:·.《✧》.·:·..·:·..·:·..·:·..·:·..·:·.《✧》.·:·.
