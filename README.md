@@ -38,3 +38,4 @@ I assume that you already installed firefox, nemo and some additional packages
 - ckb-next
 - hyprshot
 - spotifyd
+- cbonsai
