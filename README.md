@@ -1,7 +1,11 @@
 # Liath's .config files
 For easier management across devices
 
-### What to install
+## INSTALLATION
+
+### Additional packages
+To recreate my personal experience, I recommend installing the following packages
+I assume that you already installed firefox, nemo and some additional packages
 
 #### Installing yay:
 1. ``sudo pacman -S --needed base-devel git``
@@ -9,21 +13,12 @@ For easier management across devices
 3. ``cd yay``
 4. ``makepkg -si``
 
-
-#### Install the following packages using yay:
-- visual-studio-code-bin
-- pacseek
-- wlogout
-- waypaper
-- blueman-manager
-- ckb-next
-- spotify-tui
-
 #### Install the following packages using pacman:
 - discord
 - fastfetch
 - waybar
-- spotify-launcher
+- spotifyd
+- spotify-players
 - gnome-calculator
 - obsidian
 - steam
@@ -33,4 +28,13 @@ For easier management across devices
 - swaync
 - hyprpaper
 - hyprsunset
+
+#### Install the following packages using yay:
+- visual-studio-code-bin
+- pacseek
+- wlogout
+- waypaper
+- blueman-manager
+- ckb-next
+- hyprshot
 - spotifyd
