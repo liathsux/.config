@@ -92,6 +92,9 @@
 #   .gitignore:
 !.gitignore
 #
+#   .bashrc:
+!.bashrc
+#
 #
 #
 #   AUTHOR:
