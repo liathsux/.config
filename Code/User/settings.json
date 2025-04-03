@@ -45,4 +45,5 @@
     "window.menuBarVisibility": "toggle",
     "chat.commandCenter.enabled": false,
     "editor.wordWrapColumn": 160,
+    "diffEditor.ignoreTrimWhitespace": true,
 }

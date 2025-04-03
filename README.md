@@ -37,3 +37,4 @@ I assume that you already installed firefox, nemo and some additional packages
 - blueman-manager
 - ckb-next
 - hyprshot
+- spotifyd
