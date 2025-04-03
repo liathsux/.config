@@ -33,7 +33,7 @@
     "accessibility.signals.save": {
         "sound": "always"
     },
-    "accessibility.dimUnfocused.opacity": 0.2,
+    "accessibility.dimUnfocused.opacity": 0.6,
     "accessibility.dimUnfocused.enabled": true,
     "accessibility.underlineLinks": true,
     "explorer.confirmDelete": false,
