@@ -28,6 +28,7 @@ I assume that you already installed firefox, nemo and some additional packages
 - swaync
 - hyprpaper
 - hyprsunset
+- hyprlock
 
 #### Install the following packages using yay:
 - visual-studio-code-bin
