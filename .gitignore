@@ -55,9 +55,9 @@
 !spotifyd/
 !spotifyd/**/*
 #
-#   spt:
-!spotify-tui/
-!spotify-tui/config.yml
+#   spotify-player:
+!spotify-player/
+!spotify-player/**/*
 #
 #   Vencord:
 !Vencord/
